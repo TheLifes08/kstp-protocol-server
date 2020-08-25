@@ -1,0 +1,8 @@
+IP = "0.0.0.0"
+PORT = 19661
+ADDRESS = (IP, PORT)
+PROTOCOL = "KSTP"
+PROTOCOL_VERSION = (0, 1)
+MESSAGE_TYPES = ["request", "response"]
+PACKET_SIZE = 4096
+RSA_KEYS = ()
