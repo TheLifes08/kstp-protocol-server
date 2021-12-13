@@ -1,3 +1,3 @@
-# tcp-server
+# kstp-protocol-server
 
 Secret develop.
