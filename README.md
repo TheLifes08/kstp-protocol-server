@@ -1,3 +1,3 @@
-# kstp-protocol-server
+# kstp-server
 
-Попытка создать собственный протокол обмена сообщениями в локальной сети (на основе TCP) для дальнейшего использования в IoT-проектах. На данный момент заброшен.
+An attempt to create a custom TCP-based messaging protocol for further use in IoT projects.
